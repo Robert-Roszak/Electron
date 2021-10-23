@@ -1,0 +1,14 @@
+{
+  "name": "Electron",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Robert-Roszak/Electron.git",
+  "author": "Robert-Roszak <79662439+Robert-Roszak@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  }
+}
